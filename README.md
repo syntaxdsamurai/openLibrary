@@ -1,4 +1,4 @@
-# 📚 Open Library Pipeline
+# Open Library Pipeline
 
 A Python data pipeline that fetches book data from the Open Library API, cleans it, and saves the output as both CSV and Parquet.
 
